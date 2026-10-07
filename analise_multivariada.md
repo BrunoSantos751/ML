@@ -64,6 +64,6 @@ Através da Análise de **Regressão Logística Múltipla**, provamos matematica
 ---
 
 ## 5. Conclusão Final e Previsão
-A Análise Multivariada com PCA, bem justificada e reforçada pelos nossos gráficos exploratórios, nos levou à importante decisão de **não jogar fora ou condensar as colunas atuais** da base limpa. (Lembrando que a coluna inútil `TIPORESID` já foi definitivamente descartada no passo anterior). A pulverização das interações exige que todo o conjunto codificado restante seja utilizado.
+A Análise Multivariada, bem justificada e reforçada pelos nossos gráficos exploratórios, nos levou à importante decisão de **não jogar fora ou condensar as colunas atuais** da base limpa. (Lembrando que a coluna inútil `TIPORESID` já foi definitivamente descartada no passo anterior). A pulverização das interações exige que todo o conjunto codificado restante seja utilizado.
 
 Com isso em mãos, os dados estão consolidados para serem despachados aos algoritmos de Machine Learning que criarão o modelo inteligente de fato.
